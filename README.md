@@ -1,1 +1,1 @@
-Implemented a solver method that solved a Sudoku board using Recursive Backtracking in Java. Completed during Fall of 2024 for Boston University's CS112 Course.  
+Implemented a solver method that solved a Sudoku board using Recursive Backtracking in Java. Completed during Fall of 2024 for Boston University's CS112 Course, and received full marks. Comments are embedded throughout the entirety of the code to make it more readable. 
